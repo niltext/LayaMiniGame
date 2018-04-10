@@ -1,1 +1,1 @@
-# LAYABOX
+# WeGame Collections
